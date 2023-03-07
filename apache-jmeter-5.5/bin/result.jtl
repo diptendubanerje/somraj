@@ -1,0 +1,2 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1678185404126,299,T01_Get_Google_Data,200,OK,Thread Group 1-1,text,true,,15052,117,1,1,https://www.google.com/,293,0,247
